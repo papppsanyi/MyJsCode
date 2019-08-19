@@ -5,7 +5,7 @@ if (document.getElementById("ctl00_PlaceHolderPageDescription_WPVykaz1_ctl00_NEW
 else if (document.getElementById("ctl00_PlaceHolderPageDescription_WPVykaz1_ctl00_NEW_ProjektDdl").selectedIndex == 1){
 	
 }
-else{
+else if (document.getElementById("ctl00_PlaceHolderPageDescription_WPVykaz1_ctl00_NEW_UlohaDdl").selectedIndex ==0){
 	document.getElementById("ctl00_PlaceHolderPageDescription_WPVykaz1_ctl00_NEW_UlohaDdl").selectedIndex = 1;
 document.getElementById("ctl00_PlaceHolderPageDescription_WPVykaz1_ctl00_NEW_TypPraceDdl").selectedIndex = 27;
 document.getElementById("ctl00_PlaceHolderPageDescription_WPVykaz1_ctl00_NEW_HodinyDdl").selectedIndex = 8;
