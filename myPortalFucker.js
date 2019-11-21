@@ -9,5 +9,5 @@ else if (document.getElementById("ctl00_PlaceHolderPageDescription_WPVykaz1_ctl0
 	document.getElementById("ctl00_PlaceHolderPageDescription_WPVykaz1_ctl00_NEW_UlohaDdl").selectedIndex = 1;
 document.getElementById("ctl00_PlaceHolderPageDescription_WPVykaz1_ctl00_NEW_TypPraceDdl").selectedIndex = 27;
 document.getElementById("ctl00_PlaceHolderPageDescription_WPVykaz1_ctl00_NEW_HodinyDdl").selectedIndex = 8;
-document.getElementById('ctl00_PlaceHolderPageDescription_WPVykaz1_ctl00_NEW_PopisTb').value = 'PFS - testing';
+document.getElementById('ctl00_PlaceHolderPageDescription_WPVykaz1_ctl00_NEW_PopisTb').value = 'DITEC testing Pfs testing';
 }
